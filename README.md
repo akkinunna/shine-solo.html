@@ -1,1 +1,1 @@
-# index.html
+#shine solo.html
